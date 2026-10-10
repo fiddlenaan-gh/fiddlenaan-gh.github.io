@@ -1,0 +1,55 @@
+Module,Class,RollName,MinRoll,MaxRoll,Category
+Shield Extender,Decayed,Shield Hitpoint Bonus,-0.05,0.1,2
+Shield Extender,Decayed,CPU Usage,0.25,-0.05,1
+Shield Extender,Decayed,Powergrid Usage,0.25,-0.05,1
+Shield Extender,Decayed,Signature Radius Modifier,0.3,-0.1,0
+Shield Extender,Gravid,Shield Hitpoint Bonus,-0.1,0.2,2
+Shield Extender,Gravid,CPU Usage,0.3,-0.15,1
+Shield Extender,Gravid,Powergrid Usage,0.3,-0.15,1
+Shield Extender,Gravid,Signature Radius Modifier,0.4,-0.2,0
+Shield Extender,Unstable,Shield Hitpoint Bonus,-0.3,0.3,2
+Shield Extender,Unstable,CPU Usage,0.5,-0.2,1
+Shield Extender,Unstable,Powergrid Usage,0.5,-0.2,1
+Shield Extender,Unstable,Signature Radius Modifier,0.5,-0.3,0
+Shield Booster,Decayed,Activation Time/Duration,0.02,-0.05,0
+Shield Booster,Decayed,CPU Usage,0.25,-0.05,1
+Shield Booster,Decayed,Shield Bonus,-0.05,0.1,2
+Shield Booster,Decayed,Activation Cost,0.2,-0.15,0
+Shield Booster,Decayed,Powergrid Usage,0.25,-0.05,1
+Shield Booster,Gravid,Activation Time/Duration,0.05,-0.07,0
+Shield Booster,Gravid,CPU Usage,0.3,-0.15,1
+Shield Booster,Gravid,Shield Bonus,-0.1,0.15,2
+Shield Booster,Gravid,Activation Cost,0.3,-0.2,0
+Shield Booster,Gravid,Powergrid Usage,0.3,-0.15,1
+Shield Booster,Unstable,Activation Time/Duration,0.1,-0.1,0
+Shield Booster,Unstable,CPU Usage,0.5,-0.2,1
+Shield Booster,Unstable,Shield Bonus,-0.2,0.2,2
+Shield Booster,Unstable,Activation Cost,0.4,-0.4,0
+Shield Booster,Unstable,Powergrid Usage,0.5,-0.2,1
+Armor Plate,Decayed,Armor HP Bonus,-0.05,0.1,2
+Armor Plate,Decayed,Mass,0.2,-0.15,0
+Armor Plate,Decayed,CPU Usage,0.25,-0.05,1
+Armor Plate,Decayed,Powergrid Usage,0.25,-0.05,1
+Armor Plate,Gravid,Armor HP Bonus,-0.1,0.2,2
+Armor Plate,Gravid,Mass,0.3,-0.2,0
+Armor Plate,Gravid,CPU Usage,0.3,-0.15,1
+Armor Plate,Gravid,Powergrid Usage,0.3,-0.15,1
+Armor Plate,Unstable,Armor HP Bonus,-0.3,0.3,2
+Armor Plate,Unstable,Mass,0.4,-0.4,0
+Armor Plate,Unstable,CPU Usage,0.5,-0.2,1
+Armor Plate,Unstable,Powergrid Usage,0.5,-0.2,1
+Armor Repairer,Decayed,Activation Cost,0.2,-0.15,0
+Armor Repairer,Decayed,Activation Duration,0.02,-0.05,0
+Armor Repairer,Decayed,Armor HP Repaired,-0.05,0.1,2
+Armor Repairer,Decayed,CPU Usage,0.25,-0.05,1
+Armor Repairer,Decayed,Powergrid Usage,0.25,-0.05,1
+Armor Repairer,Gravid,Activation Cost,0.15,-0.1,0
+Armor Repairer,Gravid,Activation Duration,0.05,-0.07,0
+Armor Repairer,Gravid,Armor HP Repaired,-0.1,0.15,2
+Armor Repairer,Gravid,CPU Usage,0.3,-0.15,1
+Armor Repairer,Gravid,Powergrid Usage,0.3,-0.15,1
+Armor Repairer,Unstable,Activation Cost,0.2,-0.2,0
+Armor Repairer,Unstable,Activation Duration,0.1,-0.1,0
+Armor Repairer,Unstable,Armor HP Repaired,-0.2,0.2,2
+Armor Repairer,Unstable,CPU Usage,0.5,-0.2,1
+Armor Repairer,Unstable,Powergrid Usage,0.5,-0.2,1

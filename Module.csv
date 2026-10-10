@@ -1,0 +1,53 @@
+Module,Size,Tier,RollName,BaseValue,Category
+Shield Extender,Medium,I,Shield Hitpoint Bonus,800,2
+Shield Extender,Medium,I,CPU Usage,28,1
+Shield Extender,Medium,I,Powergrid Usage,28,1
+Shield Extender,Medium,I,Signature Radius Modifier,7,0
+Shield Extender,Medium,II,Shield Hitpoint Bonus,1100,2
+Shield Extender,Medium,II,CPU Usage,35,1
+Shield Extender,Medium,II,Powergrid Usage,30,1
+Shield Extender,Medium,II,Signature Radius Modifier,7,0
+Shield Extender,Large,I,Shield Hitpoint Bonus,1900,2
+Shield Extender,Large,I,CPU Usage,40,1
+Shield Extender,Large,I,Powergrid Usage,150,1
+Shield Extender,Large,I,Signature Radius Modifier,25,0
+Shield Extender,Large,II,Shield Hitpoint Bonus,2600,2
+Shield Extender,Large,II,CPU Usage,45,1
+Shield Extender,Large,II,Powergrid Usage,160,1
+Shield Extender,Large,II,Signature Radius Modifier,25,0
+Shield Booster,Medium,I,Activation Time/Duration,3,0
+Shield Booster,Medium,I,CPU Usage,50,1
+Shield Booster,Medium,I,Shield Bonus,78,2
+Shield Booster,Medium,I,Activation Cost,60,0
+Shield Booster,Medium,I,Powergrid Usage,12,1
+Shield Booster,Medium,II,Activation Time/Duration,3,0
+Shield Booster,Medium,II,CPU Usage,58,1
+Shield Booster,Medium,II,Shield Bonus,104,2
+Shield Booster,Medium,II,Activation Cost,60,0
+Shield Booster,Medium,II,Powergrid Usage,13,1
+Shield Booster,Large,I,Activation Time/Duration,4,0
+Shield Booster,Large,I,CPU Usage,100,1
+Shield Booster,Large,I,Shield Bonus,207,2
+Shield Booster,Large,I,Activation Cost,160,0
+Shield Booster,Large,I,Powergrid Usage,150,1
+Shield Booster,Large,II,Activation Time/Duration,4,0
+Shield Booster,Large,II,CPU Usage,115,1
+Shield Booster,Large,II,Shield Bonus,276,2
+Shield Booster,Large,II,Activation Cost,160,0
+Shield Booster,Large,II,Powergrid Usage,165,1
+Armor Plate,800mm,I,Armor HP Bonus,1750,2
+Armor Plate,800mm,I,Mass,1350000,0
+Armor Plate,800mm,I,CPU Usage,25,1
+Armor Plate,800mm,I,Powergrid Usage,200,1
+Armor Plate,800mm,II,Armor HP Bonus,2400,2
+Armor Plate,800mm,II,Mass,1450000,0
+Armor Plate,800mm,II,CPU Usage,28,1
+Armor Plate,800mm,II,Powergrid Usage,230,1
+Armor Plate,1600mm,I,Armor HP Bonus,3500,2
+Armor Plate,1600mm,I,Mass,3500000,0
+Armor Plate,1600mm,I,CPU Usage,30,1
+Armor Plate,1600mm,I,Powergrid Usage,500,1
+Armor Plate,1600mm,II,Armor HP Bonus,4800,2
+Armor Plate,1600mm,II,Mass,3750000,0
+Armor Plate,1600mm,II,CPU Usage,35,1
+Armor Plate,1600mm,II,Powergrid Usage,550,1
